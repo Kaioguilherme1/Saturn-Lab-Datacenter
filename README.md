@@ -122,4 +122,4 @@ Mention all those who helped lift the project from its inception
 
 ## License
 
-This project is under the license (MIT) - see the file [LICENSE.md](https://github.com/Kaioguilherme1/Saturn-Lab-Datacenter/license) for details.
+This project is under the license (MIT) - see the file [LICENSE.md](https://github.com/Kaioguilherme1/Saturn-Lab-Datacenter/blob/main/LICENSE) for details.
