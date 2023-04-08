@@ -1,5 +1,3 @@
-# Readme
-
 # Saturn-Lab-Datacenter
 
 Este repositório tem como objetivo ensinar a criar um datacenter virtual para aprendizagem das ferramentas de devops e outras aplicações acadêmicas. O datacenter é composto por uma máquina virtual (VM) principal chamada Saturno e várias outras VMs que representam as luas de Saturno. Cada VM tem uma função específica no datacenter, como firewall, roteador, servidor web, banco de dados, etc.
