@@ -2,6 +2,8 @@
 
 This repository aims to teach how to create a virtual datacenter for learning devops tools and other academic applications. The datacenter is composed of a main virtual machine (VM) called Saturn and several other VMs that represent the moons of Saturn. Each VM has a specific function in the datacenter, such as firewall, router, web server, database, etc.
 
+## Portuguese Version
+[Vesão em Português](https://github.com/Kaioguilherme1/Saturn-Lab-Datacenter/blob/main/README_PT.md)
 ## Prerequisites
 
 We will use Ubuntu 20.04 LTS to run this lab at the moment, but we can add support for Windows later. To follow this tutorial, you will need:
